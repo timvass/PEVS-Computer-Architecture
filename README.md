@@ -9,7 +9,8 @@ Applied info, 1/2
 7. RAM, ROM, CAM, cache, DMA, external memory, input / output devices.
 8. Memory management and virtual memory.
 9. Workflow and data stream processing.
-10. Simultaneous processing of data and tasks in real time. Interrupt system, time sharing, multiprocessing and multitasking. 11. Current Trends: Multi-core Processors, GPU, CUDA, OpenCL, grid computing, cloud computing.
+10. Simultaneous processing of data and tasks in real time. Interrupt system, time sharing, multiprocessing and multitasking.
+11. Current Trends: Multi-core Processors, GPU, CUDA, OpenCL, grid computing, cloud computing.
 ----
 2. Desiatková, dvojková a hexadecimálna sústava, reprezentácia dát v počítačoch.
 3. Ako funguje počítač – princetonská a harvardská architektúra. Klasifikácia podľa Flynna, SIDM versus MIDM.
